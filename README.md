@@ -1,5 +1,5 @@
 # qb-scoreboard
-Scoreboard for QB-Core
+Reskin for the official QBCore Scoreboard
 
 # License
 
