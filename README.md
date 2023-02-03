@@ -1,6 +1,9 @@
 # qb-scoreboard
 Reskin for the official QBCore Scoreboard
 
+# Screenshot
+![image](https://user-images.githubusercontent.com/57048210/216712262-54419dd3-1fff-4672-8068-775526f8973f.png)
+
 # License
 
     QBCore Framework
